@@ -1,9 +1,19 @@
 .grid {
 	border: 1px solid red;
+	overflow: hidden;
 }
 
 .unit {
 	background-color: #FFFFFF;
 	float: left;
 	width: 33.333%;
+}
+
+.gutter{
+	padding-left: 1.5rem;
+	padding-right: 1.5rem;
+}
+
+.unit-2-3{
+	width: 66.666%;
 }
