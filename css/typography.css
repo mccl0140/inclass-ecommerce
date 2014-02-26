@@ -160,7 +160,6 @@ a,
 a:link {
   border-bottom: 0.1em solid rgba(121,50,132,0.5);
   transition: all 150ms linear;
-
   color: #793284;
   text-decoration: none;
 }
